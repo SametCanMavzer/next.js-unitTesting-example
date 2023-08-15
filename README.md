@@ -1,4 +1,9 @@
+# Next.js 13 with Unit Testing(Jest and React Testing Library)
+
+The aim of this project is to make a Unit Testing example using Next.js Jest and React Testing Library.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
